@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am JohnPaul A.C. Hampo, works @ Hamplus Technologies Int'l (wwww.hamplustech.com). 🔭 I’m currently working on Money Laundering Project. 🌱 I’m currently learning data science and machine learning. 💬 Ask google about via a search on HAMPO JOHNPAUL A.C.
+
+📫 How to reach me: hampojohnpaul@gmail.com, founder@hamplustech.com and search on social media using HAMPLUS TECH or HAMPLUS HUB
 
 <!--
 **HamplusTech/HamplusTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
